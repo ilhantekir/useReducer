@@ -1,11 +1,10 @@
-import logo from './logo.svg';
-import './App.css';
-import CounterOne from './component/CounterOne';
+
+import DataFetchingTwo from './component/DataFetchingOne';
 
 function App() {
   return (
     <div className="App">
-      <CounterOne></CounterOne>
+      <DataFetchingTwo />
     </div>
   );
 }
